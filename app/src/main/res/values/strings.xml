@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lazy Calculator</string>
+    <string name="new_app_is_ready">New app is ready</string>
+    <string name="install">Install</string>
+    <string name="perform_addition">Perform addition</string>
+</resources>

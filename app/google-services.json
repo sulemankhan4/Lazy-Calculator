@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "218336692821",
+    "project_id": "lazy-calculator-a38fa",
+    "storage_bucket": "lazy-calculator-a38fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218336692821:android:39f7f2d4b695d495b662dc",
+        "android_client_info": {
+          "package_name": "com.lazy.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218336692821-nlqikoee7irv9tugb4qpdc0p3omjpqgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazy.calculator",
+            "certificate_hash": "e036467ae76a66596f8966eb21d950b6c3f0c697"
+          }
+        },
+        {
+          "client_id": "218336692821-s4t8ls3b9i9r4n5vu5mtrvnkbfmh9mre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL1FaW4Bbg4EFprLCZmQNKQBmRyFZ4EMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218336692821-s4t8ls3b9i9r4n5vu5mtrvnkbfmh9mre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
